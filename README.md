@@ -99,6 +99,7 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 * 🍩 http://material.io/resources/icons
 * 🍩 http://iconmonstr.com
 * 🍩 https://heroicons.dev
+* 🍩 https://www.abstractapi.com/user-avatar-api
 
 ## Fonts
 
@@ -160,3 +161,7 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 * ⚡ [WebPageTest](https://www.webpagetest.org)
 * ⚡ [Yslow](http://yslow.org)
 * ⚡ [CrUX](https://crux.run)
+
+## API's
+* 🤖 [Abstract API](https://www.abstractapi.com)
+* 🤖 [RapidAPI](https://www.rapidapi.com)
