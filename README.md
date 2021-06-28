@@ -57,6 +57,7 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 * ⌨️ http://exercism.io
 * ⌨️ http://leetcode.com
 * ⌨️ http://spoj.com
+* ⌨️ https://www.codementor.io/projects
 
 ## Freelancing platforms
 
