@@ -44,6 +44,7 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 * 🎓 http://sololearn.com
 * 🎓 https://javascript.info
 * 🎓 https://www.udemy.com
+* 🎓 https://www.scaler.com/topics/
 
 ## Coding Challenge Platforms
 
