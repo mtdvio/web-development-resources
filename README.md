@@ -44,6 +44,7 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 * 🎓 http://sololearn.com
 * 🎓 https://javascript.info
 * 🎓 https://www.udemy.com
+* 🎓 https://www.interviewbit.com/blog/best-web-development-courses/
 
 ## Coding Challenge Platforms
 
@@ -57,6 +58,7 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 * ⌨️ http://exercism.io
 * ⌨️ http://leetcode.com
 * ⌨️ http://spoj.com
+* ⌨️ https://www.interviewbit.com/
 
 ## Freelancing platforms
 
