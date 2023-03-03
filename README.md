@@ -12,7 +12,7 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 
 ---
 
-## Docs
+## Documents
 
 * 📓 http://developer.mozilla.org
 * 📓 http://w3schools.com
