@@ -44,6 +44,7 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 * 🎓 http://sololearn.com
 * 🎓 https://javascript.info
 * 🎓 https://www.udemy.com
+* 🎓 https://www.scaler.com
 
 ## Coding Challenge Platforms
 
@@ -70,6 +71,7 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 * 💰 http://fiverr.com
 * 💰 http://hireable.com
 * 💰 http://6nomads.com
+* 💰 https://in.jooble.org/
 
 ## Free CC-0 Photo Stocks
 
