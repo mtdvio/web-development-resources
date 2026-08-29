@@ -165,3 +165,7 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 ## API's
 * 🤖 [Abstract API](https://www.abstractapi.com)
 * 🤖 [RapidAPI](https://www.rapidapi.com)
+
+## Developer Utilities
+
+* 🛠 [Nutilz](https://nutilz.com) - Free browser-based developer utilities: regex tester, JSON formatter, timestamp converter, calculators, and security generators.
