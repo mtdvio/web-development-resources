@@ -44,6 +44,7 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 * 🎓 http://sololearn.com
 * 🎓 https://javascript.info
 * 🎓 https://www.udemy.com
+* 📓 [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book covering fundamentals through advanced concepts.
 
 ## Coding Challenge Platforms
 
