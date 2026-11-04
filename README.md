@@ -154,6 +154,10 @@ Initially created by [@markodenic](https://github.com/markodenic) on [Twitter](h
 * 🔖 [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
 * 🔖 [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj)
 
+## JSON Tools
+
+* 🧰 [BestJSON](https://bestjson.com/) — Format, validate and compare JSON locally without an account.
+
 ## Website Optimization Tools
 
 * ⚡ [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
